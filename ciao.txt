@@ -8,4 +8,10 @@ Sti ancora usando questa repo come test case? puoi fare tutti i danni del mondo,
 Prova a fare un merge tra questa branch e la master branch!
 Provoe poi verra' un casino:)
 
+E se edito questo file dopo aver merged i branches, cosa succede?
 Ha funzionato!!
+=======
+Provoe poi verra' un casino:)
+
+E se edito questo file dopo aver merged i branches, cosa succede?
+>>>>>>> old_time
