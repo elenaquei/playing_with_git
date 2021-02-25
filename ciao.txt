@@ -14,4 +14,3 @@ Ha funzionato!!
 Provoe poi verra' un casino:)
 
 E se edito questo file dopo aver merged i branches, cosa succede?
->>>>>>> old_time
