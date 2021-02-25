@@ -10,3 +10,7 @@ Provoe poi verra' un casino:)
 
 E se edito questo file dopo aver merged i branches, cosa succede?
 Succede che succede un casino con gli stash :'(
+
+:'( 
+ma il merging è andato bene!
+che casino è successo? (non vedo i tuoi stasch)
