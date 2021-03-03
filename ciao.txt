@@ -17,3 +17,5 @@ che casino è successo? (non vedo i tuoi stasch)
 
 Chissa' cos'e' successo :)
 Cmq adesso sto provando a usare sourcetree...e' esteticamente meno bello di gitkraken :(
+
+Due branch compaiono in parallelo! cosa faranno i nostri eroi??
